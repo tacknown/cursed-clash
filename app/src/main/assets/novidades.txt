@@ -1,0 +1,6 @@
+#id 2026-10-13-a
+#titulo Primeira luta!
+- Gojo e Sukuna jogáveis, com arte original feita no próprio app
+- Combate 1 contra 1 contra a CPU, melhor de 3 rounds
+- Golpes em combo, técnica, especial e defesa
+- Atualização pelo próprio app em Configurações
